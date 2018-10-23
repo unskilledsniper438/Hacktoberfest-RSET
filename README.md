@@ -30,6 +30,13 @@
 * `git config --global user.name "Your Name"`
 * `git config --global user.email "Your Email Id"`
 
+## Other Git Commands
+
+List all files including hidden			ls -al (ubuntu)			ls -h (Windows)
+
+Switch to a new branch					git checkout -b develop
+
+
 
 
 
